@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Contact Manager**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RishavKumar8578](https://github.com/RishavKumar8578)
 
