@@ -1,4 +1,5 @@
-![logo](https://tse2.mm.bing.net/th?id=OIP.ZhWv7gIWqwfM1-OTXqggAAHaEM&pid=Api&P=0&h=180)
+![logo](https://tse2.mm.bing.net/th?id=OIP.ZhWv7gIWqwfM1-OTXqggAAHaEM&pid=Api&P=0&h=360)
+![logo](https://tse2.mm.bing.net/th?id=OIP.ZhWv7gIWqwfM1-OTXqggAAHaEM&pid=Api&P=0&h=360)
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
