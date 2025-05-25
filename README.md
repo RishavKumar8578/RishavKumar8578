@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rishavkumar8507@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TIQtqwiWq24HdeDYLxEjVm8L98h79UTX/view?usp=drivesdk](https://drive.google.com/file/d/1TIQtqwiWq24HdeDYLxEjVm8L98h79UTX/view?usp=drivesdk)
+- 📄 Know about my experiences [https://rishavkumar8578.github.io/My_Portfolio/](https://rishavkumar8578.github.io/My_Portfolio/)
 
 - ⚡ Fun fact **I am funny**
 
